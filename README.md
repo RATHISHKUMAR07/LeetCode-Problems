@@ -52,6 +52,7 @@ This repository contains my solutions to LeetCode problems. I started this journ
 37. [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/) 
 38. [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/) 
 39. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+40. [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
 
 
 --
@@ -68,7 +69,9 @@ This repository contains my solutions to LeetCode problems. I started this journ
 10. [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) 
 11. [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
 12. [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) 
-13. [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) 
+13. [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
+14. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
+
 
 --
 
