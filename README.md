@@ -1,10 +1,10 @@
 # LeetCode Problem Solutions
 
-This repository contains my solutions to LeetCode problems. I started this journey with a goal to solve problems till now completed 50 problems next step is to complete 100 problems. and I'm sharing my progress here. 
+This repository contains my solutions to LeetCode problems. I started this journey with a goal to solve problems till now completed 57 problems next step is to complete 100 problems. and I'm sharing my progress here. 
 
 ## Progress
 
-- [x] Solved 50 problems
+- [x] Solved 57 problems
 - [ ] Working towards solving 100 problems
 
 ## Table of Contents
@@ -71,6 +71,8 @@ This repository contains my solutions to LeetCode problems. I started this journ
 12. [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) 
 13. [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)
 14. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
+15. [Divide Two Integer](https://leetcode.com/problems/divide-two-integers/)
+16. [Count and Say](https://leetcode.com/problems/count-and-say/)
 
 
 --
