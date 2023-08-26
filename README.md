@@ -1,10 +1,10 @@
 # LeetCode Problem Solutions
 
-This repository contains my solutions to LeetCode problems. I started this journey with a goal to solve problems till now completed 57 problems next step is to complete 100 problems. and I'm sharing my progress here. 
+This repository contains my solutions to LeetCode problems. I started this journey with a goal to solve problems till now completed 60 problems next step is to complete 100 problems. and I'm sharing my progress here. 
 
 ## Progress
 
-- [x] Solved 57 problems
+- [x] Solved 60 problems
 - [ ] Working towards solving 100 problems
 
 ## Table of Contents
@@ -53,6 +53,8 @@ This repository contains my solutions to LeetCode problems. I started this journ
 38. [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/) 
 39. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 40. [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
+41. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+42. [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
 
 
 --
@@ -73,6 +75,7 @@ This repository contains my solutions to LeetCode problems. I started this journ
 14. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 15. [Divide Two Integer](https://leetcode.com/problems/divide-two-integers/)
 16. [Count and Say](https://leetcode.com/problems/count-and-say/)
+17. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 
 
 --
