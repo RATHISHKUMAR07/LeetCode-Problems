@@ -55,6 +55,8 @@ This repository contains my solutions to LeetCode problems. I started this journ
 40. [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
 41. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 42. [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
+43. [Binary Search](https://leetcode.com/problems/binary-search/)
+44. [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)
 
 
 --
