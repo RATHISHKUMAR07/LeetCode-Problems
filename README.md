@@ -1,10 +1,10 @@
 # LeetCode Problem Solutions
 
-This repository contains my solutions to LeetCode problems. I started this journey with a goal to solve problems till now completed 60 problems next step is to complete 100 problems. and I'm sharing my progress here. 
+This repository contains my solutions to LeetCode problems. I started this journey with a goal to solve problems till now completed 62 problems next step is to complete 100 problems. and I'm sharing my progress here. 
 
 ## Progress
 
-- [x] Solved 60 problems
+- [x] Solved 62 problems
 - [ ] Working towards solving 100 problems
 
 ## Table of Contents
