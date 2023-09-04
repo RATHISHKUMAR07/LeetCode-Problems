@@ -1,10 +1,10 @@
 # LeetCode Problem Solutions
 
-This repository contains my solutions to LeetCode problems. I started this journey with a goal to solve problems till now completed 62 problems next step is to complete 100 problems. and I'm sharing my progress here. 
+This repository contains my solutions to LeetCode problems. I started this journey with a goal to solve problems till now completed 66 problems next step is to complete 100 problems. and I'm sharing my progress here. 
 
 ## Progress
 
-- [x] Solved 62 problems
+- [x] Solved 66 problems
 - [ ] Working towards solving 100 problems
 
 ## Table of Contents
@@ -57,6 +57,8 @@ This repository contains my solutions to LeetCode problems. I started this journ
 42. [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
 43. [Binary Search](https://leetcode.com/problems/binary-search/)
 44. [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)
+45. [Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/)
+46. [Add Two Strings](https://leetcode.com/problems/add-strings/)
 
 
 --
@@ -78,6 +80,8 @@ This repository contains my solutions to LeetCode problems. I started this journ
 15. [Divide Two Integer](https://leetcode.com/problems/divide-two-integers/)
 16. [Count and Say](https://leetcode.com/problems/count-and-say/)
 17. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+18. [Rotated Array](https://leetcode.com/problems/rotate-array/)
+19. [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/)
 
 
 --
