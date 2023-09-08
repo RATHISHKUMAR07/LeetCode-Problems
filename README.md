@@ -1,10 +1,10 @@
 # LeetCode Problem Solutions
 
-This repository contains my solutions to LeetCode problems. I started this journey with a goal to solve problems till now completed 66 problems next step is to complete 100 problems. and I'm sharing my progress here. 
+This repository contains my solutions to LeetCode problems. I started this journey with a goal to solve problems till now completed 71 problems next step is to complete 100 problems. and I'm sharing my progress here. 
 
 ## Progress
 
-- [x] Solved 66 problems
+- [x] Solved 71 problems
 - [ ] Working towards solving 100 problems
 
 ## Table of Contents
@@ -53,12 +53,16 @@ This repository contains my solutions to LeetCode problems. I started this journ
 38. [Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed/) 
 39. [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 40. [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
-41. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
-42. [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
-43. [Binary Search](https://leetcode.com/problems/binary-search/)
-44. [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)
-45. [Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/)
-46. [Add Two Strings](https://leetcode.com/problems/add-strings/)
+41. [Path Crossing](https://leetcode.com/problems/path-crossing/)
+42. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+43. [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
+44. [Binary Search](https://leetcode.com/problems/binary-search/)
+45. [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)
+46. [Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/)
+47. [Add Two Strings](https://leetcode.com/problems/add-strings/)
+48. [Power of Three](https://leetcode.com/problems/power-of-three/)
+49. [Number of 1's Bits](https://leetcode.com/problems/number-of-1-bits/)
+50. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 
 
 --
@@ -82,6 +86,7 @@ This repository contains my solutions to LeetCode problems. I started this journ
 17. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 18. [Rotated Array](https://leetcode.com/problems/rotate-array/)
 19. [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/)
+20. [Rotate Image](https://leetcode.com/problems/rotate-image/)
 
 
 --
