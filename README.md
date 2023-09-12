@@ -1,10 +1,10 @@
 # LeetCode Problem Solutions
 
-This repository contains my solutions to LeetCode problems. I started this journey with a goal to solve problems till now completed 71 problems next step is to complete 100 problems. and I'm sharing my progress here. 
+This repository contains my solutions to LeetCode problems. I started this journey with a goal to solve problems till now completed 75 problems next step is to complete 100 problems. and I'm sharing my progress here. 
 
 ## Progress
 
-- [x] Solved 71 problems
+- [x] Solved 75 problems
 - [ ] Working towards solving 100 problems
 
 ## Table of Contents
@@ -63,6 +63,8 @@ This repository contains my solutions to LeetCode problems. I started this journ
 48. [Power of Three](https://leetcode.com/problems/power-of-three/)
 49. [Number of 1's Bits](https://leetcode.com/problems/number-of-1-bits/)
 50. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+51. [Point that Interrects with Cars](https://leetcode.com/contest/weekly-contest-362/problems/points-that-intersect-with-cars/)
+52. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 
 
 --
@@ -87,6 +89,8 @@ This repository contains my solutions to LeetCode problems. I started this journ
 18. [Rotated Array](https://leetcode.com/problems/rotate-array/)
 19. [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/)
 20. [Rotate Image](https://leetcode.com/problems/rotate-image/)
+21. [Sort Colors Without Sort Functions](https://leetcode.com/problems/sort-colors/)
+22. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 
 
 --
