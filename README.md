@@ -1,10 +1,10 @@
 # LeetCode Problem Solutions
 
-This repository contains my solutions to LeetCode problems. I started this journey with a goal to solve problems till now completed 75 problems next step is to complete 100 problems. and I'm sharing my progress here. 
+This repository contains my solutions to LeetCode problems. I started this journey with a goal to solve problems till now completed 86 problems next step is to complete 100 problems. and I'm sharing my progress here. 
 
 ## Progress
 
-- [x] Solved 75 problems
+- [x] Solved 86 problems
 - [ ] Working towards solving 100 problems
 
 ## Table of Contents
@@ -65,6 +65,10 @@ This repository contains my solutions to LeetCode problems. I started this journ
 50. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 51. [Point that Interrects with Cars](https://leetcode.com/contest/weekly-contest-362/problems/points-that-intersect-with-cars/)
 52. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+53. [Power of Four](https://leetcode.com/problems/power-of-four/)
+54. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
+55. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+56. [Missing Number](https://leetcode.com/problems/missing-number/)
 
 
 --
@@ -91,6 +95,13 @@ This repository contains my solutions to LeetCode problems. I started this journ
 20. [Rotate Image](https://leetcode.com/problems/rotate-image/)
 21. [Sort Colors Without Sort Functions](https://leetcode.com/problems/sort-colors/)
 22. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+23. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
+24. [Factorial Trailing Zeros](https://leetcode.com/problems/factorial-trailing-zeroes/)
+25. [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+26. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+27. [Container with Most Water](https://leetcode.com/problems/container-with-most-water/)
+28. [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
+29. [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 
 
 --
