@@ -1,11 +1,11 @@
 # LeetCode Problem Solutions
 
-This repository contains my solutions to LeetCode problems. I started this journey with a goal to solve problems till now completed 86 problems next step is to complete 100 problems. and I'm sharing my progress here. 
+This repository contains my solutions to LeetCode problems. I started this journey with a goal to solve problems till now completed 100 problems next step is to complete 150 problems. and I'm sharing my progress here. 
 
 ## Progress
 
-- [x] Solved 86 problems
-- [ ] Working towards solving 100 problems
+- [x] Solved 100 problems
+- [ ] Working towards solving 150 problems
 
 ## Table of Contents
 
@@ -69,6 +69,10 @@ This repository contains my solutions to LeetCode problems. I started this journ
 54. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
 55. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 56. [Missing Number](https://leetcode.com/problems/missing-number/)
+57. [Stock Profit]()
+58. [Keyboard Row]()
+59. [Pascal Traingle]()
+60. [Check String is Acronym of Words]()
 
 
 --
