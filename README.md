@@ -69,10 +69,10 @@ This repository contains my solutions to LeetCode problems. I started this journ
 54. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
 55. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 56. [Missing Number](https://leetcode.com/problems/missing-number/)
-57. [Stock Profit]()
-58. [Keyboard Row]()
-59. [Pascal Traingle]()
-60. [Check String is Acronym of Words]()
+57. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
+58. [Keyboard Row](https://leetcode.com/problems/keyboard-row)
+59. [Pascal Traingle](https://leetcode.com/problems/pascals-triangle)
+60. [Check String is Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words)
 
 
 --
@@ -110,7 +110,9 @@ This repository contains my solutions to LeetCode problems. I started this journ
 
 --
 
-1. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) 
+1. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+2. [First missing positive](https://leetcode.com/problems/first-missing-positive)
+3. [Sliding window maximum](https://leetcode.com/problems/sliding-window-maximum)
 
 ## Contact
 
