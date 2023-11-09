@@ -106,6 +106,17 @@ This repository contains my solutions to LeetCode problems. I started this journ
 27. [Container with Most Water](https://leetcode.com/problems/container-with-most-water/)
 28. [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)
 29. [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
+30. [Group Of Anagrams](https://leetcode.com/problems/group-anagrams)
+31. [Jump Game](https://leetcode.com/problems/jump-game)
+32. [Multiply Strings](https://leetcode.com/problems/multiply-strings)
+33. [Product Of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)
+34. [Remove Stars From String](https://leetcode.com/problems/removing-stars-from-a-string)
+35. [Reverse Word In String](https://leetcode.com/problems/reverse-words-in-a-string)
+36. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)
+37. [Word Break](https://leetcode.com/problems/word-break)
+38. [Two Sum II Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)
+
+
 
 
 --
